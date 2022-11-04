@@ -3,7 +3,7 @@ import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
-public class Main {
+public class nov_4_2022 {
     public static void main(String[] args) {
         myCanvas();
     }
