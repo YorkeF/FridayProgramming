@@ -10,8 +10,7 @@ public class nov_4_2022_2 {
         if(depth < 111) {
             System.out.print("This is the " + depth + " Pentagonal number: ");
             System.out.println((depth * ((3 * depth) - 1) / 2));
-            depth++;
-            findPentagonalNumber(depth);
+            findPentagonalNumber(depth+1);
         }
     }
 }
